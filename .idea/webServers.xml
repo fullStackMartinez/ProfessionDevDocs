@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59b099f3-2c8d-4409-b74c-d28afb696d50" name="pro_dev_doc" url="http://bootcamp-coders.cnm.edu">
+        <fileTransfer host="bootcamp-coders.cnm.edu" port="22" rootFolder="/home/emartinez394/public_html/pro_dev_doc" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
